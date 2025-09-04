@@ -18,6 +18,6 @@ Virginia Tech Master of Information Technology (GPA 4.0) with certificates in Bi
 
 ## 🔗 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-handle)  
+- [LinkedIn](https://www.linkedin.com/in/patrick-beach-8770944)  
 - [GitHub](https://github.com/shaolinpat)  
 - 📧 patrick.beach@gmail.com
