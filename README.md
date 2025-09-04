@@ -11,7 +11,7 @@ Virginia Tech Master of Information Technology (GPA 4.0) with certificates in Bi
 | Repo | What it shows |
 |------|---------------|
 | [flower_classifier](https://github.com/shaolinpat/flower_classifier) | End-to-end ML pipeline, hyperparameter search, Streamlit demo |
-| [brfss_diabetes](https://github.com/shaolinpat/brfss_diabetes) | Multi-year CDC data modeling, XGBoost vs Logistic Regression, SHAP explainability |
+| [brfss_diabetes_modeling](https://github.com/shaolinpat/brfss_diabetes_modeling) | Multi-year CDC data modeling, XGBoost vs Logistic Regression, SHAP explainability |
 | [ecg_cnn_pytorch](https://github.com/shaolinpat/ecg_cnn_pytorch) | Deep learning on PTB-XL ECG data, CNN/ResNet, SHAP interpretation, PyTorch training pipeline |
 
 ---
