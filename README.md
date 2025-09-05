@@ -2,7 +2,7 @@
 
 **Ph.D. | Data Scientist • Data Analyst • Ontological Engineer**  
 Innovative data scientist with expertise in healthcare data, AI, and ontological engineering.  
-Virginia Tech Master of Information Technology (GPA 4.0) with certificates in Big Data and Health Information Technology.
+Virginia Tech Master of Information Technology with certificates in Big Data and Health Information Technology.
 
 ---
 
