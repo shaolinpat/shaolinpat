@@ -1,6 +1,20 @@
-# Hi, I’m Patrick │ Ontological Engineer & Data Analyst  
-**Ph.D.** with expertise in healthcare data, AI/ML, and semantic frameworks.  
-Master of Information Technology (Virginia Tech) with certificates in Big Data and Health Information Technology.
+# Hi, I’m Patrick │ Ontology & Healthcare Data Engineer
+
+I work at the intersection of semantic technologies and healthcare data systems, 
+specializing in RDF/OWL modeling, SHACL validation, SPARQL diagnostics, and 
+interoperability pipelines involving HL7 v2, FHIR, ICD-10, SNOMED CT, and LOINC.
+
+My recent projects include: \
+• An HL7→FHIR transformation and validation toolkit with RDF/OWL + SHACL  
+• A semantic quality-checking framework using SPARQL and Python  
+• Machine-learning pipelines for ECG classification (PyTorch)  
+• Clinical data analytics projects using Python, SQL, and explainability tools (SHAP)
+
+I hold a Ph.D. in Philosophy (Syracuse University) and a Master of Information Technology 
+from Virginia Tech (Big Data & Health IT certificates), with a focus on structuring, 
+validating, and integrating complex healthcare data.
+
+Explore my work: github.com/shaolinpat
 
 ---
 
